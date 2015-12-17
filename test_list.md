@@ -1,2 +1,2 @@
-- [ ] a task list item
-- [x] list syntax required
+[ ] a task list item
+[x] list syntax required
